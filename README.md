@@ -1,5 +1,9 @@
-### 💻 자료구조부터 알고리즘 기초까지
+## 💻 자료구조부터 알고리즘 기초까지
 
-<img src="img/Doit-C.jpg" width="250">
+<br>
 
-* [자료구조와 함께 배우는 알고리즘 입문 - C언어 편](https://github.com/waeandway/algorithms-and-data-structures/blob/master/Doit-C/Doit-C.md)
+>- **01 기본 알고리즘** <br>
+[순서도의 기호](https://github.com/waeandway/algorithms-and-data-structures/blob/master/Chapter/01%20Basic%20Algorithm/flowchart.md) <br>
+[세 정수의 중앙값.C](https://github.com/waeandway/algorithms-and-data-structures/blob/master/Chapter/01%20Basic%20Algorithm/Middle.C) <br>
+[N까지의 합.C](https://github.com/waeandway/algorithms-and-data-structures/blob/master/Chapter/01%20Basic%20Algorithm/Nsum.C) <br>
+[가우스의 덧셈.C](https://github.com/waeandway/algorithms-and-data-structures/blob/master/Chapter/01%20Basic%20Algorithm/Nsum.C) <br>
