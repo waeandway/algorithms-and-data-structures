@@ -7,3 +7,4 @@
 [세 정수의 중앙값.C](https://github.com/waeandway/algorithms-and-data-structures/blob/master/Chapter/01%20Basic%20Algorithm/Middle.C) <br>
 [N까지의 합.C](https://github.com/waeandway/algorithms-and-data-structures/blob/master/Chapter/01%20Basic%20Algorithm/Nsum.C) <br>
 [가우스의 덧셈.C](https://github.com/waeandway/algorithms-and-data-structures/blob/master/Chapter/01%20Basic%20Algorithm/Gaussian.C) <br>
+[중간값들의 합.C](https://github.com/waeandway/algorithms-and-data-structures/blob/master/Chapter/01%20Basic%20Algorithm/sumof.C) <br>
