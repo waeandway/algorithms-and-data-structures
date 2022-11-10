@@ -12,3 +12,6 @@
 >- **02 기본 자료구조** <br>
 [동적 메모리 할당](https://github.com/waeandway/algorithms-and-data-structures/blob/master/Chapter/02%20Basic%20DataStructures/Dynamic.C) <br>
 [배열 동적 생성](https://github.com/waeandway/algorithms-and-data-structures/blob/master/Chapter/02%20Basic%20DataStructures/DynamicArr.C) <br>
+
+---
+[다중 연결 스택](https://github.com/waeandway/algorithms-and-data-structures/blob/master/data-structures/MultiLinkedStack.c) <br>
