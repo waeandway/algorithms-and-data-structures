@@ -16,3 +16,4 @@
 ---
 [다중 연결 스택](https://github.com/waeandway/algorithms-and-data-structures/blob/master/data-structures/MultiLinkedStack.c) <br>
 [이진트리 중위순회](https://github.com/waeandway/algorithms-and-data-structures/blob/master/data-structures/inorder.c) <br>
+[DFS by 연결리스트](https://github.com/waeandway/algorithms-and-data-structures/blob/master/data-structures/DFS_List.c) <br>
