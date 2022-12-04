@@ -20,6 +20,8 @@
 ### 정렬 
 [선택 정렬](https://github.com/waeandway/algorithms-and-data-structures/blob/master/data-structures/sort_selection.c) <br>
 [합병 정렬](https://github.com/waeandway/algorithms-and-data-structures/blob/master/data-structures/sort_merge.c) <br>
+[퀵 정렬](https://github.com/waeandway/algorithms-and-data-structures/blob/master/data-structures/sort_quick.c) <br>
+[기수 정렬](https://github.com/waeandway/algorithms-and-data-structures/blob/master/data-structures/sort_radixß.c) <br>
 ### 트리 
 [Kruskal MST](https://github.com/waeandway/algorithms-and-data-structures/blob/master/data-structures/kruskalMST.c) <br>
 [Prim MST](https://github.com/waeandway/algorithms-and-data-structures/blob/master/data-structures/primlMST.c) <br>
